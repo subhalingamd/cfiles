@@ -1,0 +1,42 @@
+12th May 2018, 10:00 AM
+
+
+Hi <name> Welcome to Itoville!
+
+I'm Cameron Nicholson and I'll be glad to assist you!
+
+Before we start, let me tell you something about this city.
+Itoville is a small city, infamous for it's crime scenes!
+24 detectives have quit in the last 3 months...
+
+Okay, leave that!
+
+
+Let's start this game after a small tutorial!
+
+ <PRESS ANY KEY TO CONTINUE>
+Well, this game is very simple!
+
+You will be asked to solve a case in each level.
+
+ * Use UP/DOWN keys to navigate between the options.
+ * Use LEFT/RIGHT keys to navigate between the CLUES/SUSPECTS window.
+ * You will be given with certain number of tokens before the start of each level.
+   A set of options will be there to help you to solve the case.
+   Each option costs you token(s).
+ * The number against each clue represents the number of tokens you have to spend for that level.
+ * You will get more clues and suspects as you keep playing.
+ * Depending on how fast you finish a case, you earn XPs.
+ * Retrying a level again WON't increase your XP/tokens.
+ * Once you start a level, you CANNOT quit that level before completing it!
+
+I 'll be there to help you out all the time, so no worries!
+
+And sssh, you can use the remaining tokens for the next levels!
+
+You will learn more as you progress!
+
+
+Now let's go to Level 1! Good luck!
+
+ <PRESS ANY KEY TO CONTINUE>
